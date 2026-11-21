@@ -1,0 +1,5 @@
+*.cfe binary
+*.epf binary
+*.png binary
+*.bsl text eol=crlf
+*.xml text eol=crlf
